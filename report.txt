@@ -1,0 +1,55 @@
+===== MINI RECON REPORT =====
+
+Target URL: http://localhost:3000
+
+---- Emails ----
+
+---- Links ----
+assets/public/favicon_js.ico
+//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css
+styles.css
+styles.css
+
+---- Phone Numbers ----
+0178571429
+0333333333
+5241935484
+4758064516
+9516129032
+5241935484
+4758064516
+9516129032
+4776699029
+3398058252
+1223300971
+1650485437
+0970873786
+8349514563
+5223300971
+6601941748
+8776699029
+2038834951
+7669902913
+7961165049
+8018604651
+6297674419
+9702325581
+0279069767
+4465116279
+5534883721
+1981395349
+3702325581
+0297674419
+3302325581
+2837209302
+7162790698
+2615384615
+7692307692
+7384615385
+0769230769
+
+---- Open Ports ----
+3000/tcp open  ppp?
+5225/tcp open  http       Node.js Express framework
+8080/tcp open  http-proxy
+| http-open-proxy: Potentially OPEN proxy.
